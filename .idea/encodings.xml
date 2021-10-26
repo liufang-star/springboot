@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Netty/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Netty/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Yark-AdminMS-master/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-plus-master/admin-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-plus-master/admin-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-plus-master/admin-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-plus-master/admin-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-plus-master/admin-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aop/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-uploadfile-master/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/swagger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/swagger/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

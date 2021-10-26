@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="admin-generator" />
+        <module name="admin-core" />
+        <module name="swagger" />
+        <module name="admin-plus-master" />
+        <module name="aop" />
+        <module name="Netty" />
+        <module name="study" />
+        <module name="admin-common" />
+        <module name="admin_plus_master" />
+        <module name="yaoyi" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin-common" target="8" />
+      <module name="admin-core" target="1.8" />
+      <module name="admin-generator" target="1.8" />
+      <module name="admin-plus-master" target="1.8" />
+      <module name="admin_plus_master" target="1.8" />
+      <module name="aop" target="1.8" />
+      <module name="my-blog" target="1.8" />
+      <module name="Netty" target="1.5" />
+      <module name="newbee-mall" target="1.8" />
+      <module name="springboot-03-web-test" target="1.5" />
+      <module name="study" target="1.8" />
+      <module name="study_springboot" target="1.8" />
+      <module name="swagger" target="1.8" />
+      <module name="yaoyi" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="admin-core" options="-parameters" />
+      <module name="admin-generator" options="-parameters" />
+      <module name="newbee-mall" options="-parameters" />
+      <module name="yaoyi" options="-parameters" />
+    </option>
+  </component>
+</project>

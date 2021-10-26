@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Netty/Netty.iml" filepath="$PROJECT_DIR$/Netty/Netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin-plus-master/admin-common/admin-common.iml" filepath="$PROJECT_DIR$/admin-plus-master/admin-common/admin-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin-plus-master/admin-core/admin-core.iml" filepath="$PROJECT_DIR$/admin-plus-master/admin-core/admin-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin-plus-master/admin-generator/admin-generator.iml" filepath="$PROJECT_DIR$/admin-plus-master/admin-generator/admin-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin-plus-master/admin-plus-master.iml" filepath="$PROJECT_DIR$/admin-plus-master/admin-plus-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aop/aop.iml" filepath="$PROJECT_DIR$/aop/aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-uploadfile-master/study.iml" filepath="$PROJECT_DIR$/spring-uploadfile-master/study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study_springboot.iml" filepath="$PROJECT_DIR$/study_springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swagger/swagger.iml" filepath="$PROJECT_DIR$/swagger/swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yark-AdminMS-master/yaoyi.iml" filepath="$PROJECT_DIR$/Yark-AdminMS-master/yaoyi.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../js/jquery-3.2.1.min.js"></script>
+    <script>
+        $(function () {
+            $("input[type='radio']").on("click",function () {
+                if($("input[id='a']:checked").val()=="1"){
+                    console.log("11111");
+                }else{
+                    console.log("2222");
+                }
+            })
+        })
+    </script>
+</head>
+<body>
+<input type="radio"  id="a" value="1" name="aa">有
+<input type="radio" id="b" value="2" name="aa">无
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>单选框选中触发事件</title>
+</head>
+<body>
+<p>
+    <label>是否成为网点管理员:</label>
+    <span class="field">
+          <input type="radio" name="isAdmin" value="1" id="isAdmin" >是
+          <input type="radio" name="isAdmin" value="0" id="notAdmin" >否
+          </span>
+</p>
+<p>
+          <span id="myAdmin" style="display: none">
+          <label>输入网点编号:</label>
+          <input type="text" name="netPoint" id="netPoint" value="" />
+          </span>
+</p>
+
+</body>
+<script src="../js/jquery-1.11.3.min.js"></script>
+<script>
+    // 根据单选框触发是否提交事件!
+    $('input:radio[name="isAdmin"]').change(function () {
+        if ($("#isAdmin").is(":checked")) {
+            $("#myAdmin").show();
+        }
+        if ($("#notAdmin").is(":checked")) {
+            $("#myAdmin").hide();
+            $("#netPoint").text('');
+        }
+    })
+
+</script>
+</html>
